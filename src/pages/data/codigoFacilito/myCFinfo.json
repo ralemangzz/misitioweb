@@ -1,0 +1,52 @@
+{
+    "data":{
+        "email":"ralemangzz@gmail.com",
+        "username":"ralemangzz",
+        "certificates":[
+            {
+                "score":10,
+                "code":"d476c30a-9c44-4a62-88c3-d40e265aed06",
+                "title":"Curso Profesional Desarrollo Web"
+                }
+                ],
+                "articles":[],
+                "courses":[
+                    {
+                        "title":"Crea un sitio personal con Gatsby",
+                        "progress":"100.0",
+                        "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"
+                        },
+                        {
+                            "title":"Curso Profesional Desarrollo Web",
+                            "progress":"100.0",
+                            "url":"http://codigofacilito.com/courses/frontend-profesional"
+                            },
+                            {
+                                "title":"Curso de introducción a Gatsby",
+                                "progress":"15.0",
+                                "url":"http://codigofacilito.com/courses/gatsby-introduccion"
+                                },
+                                {
+                                    "title":"Bytes",
+                                    "progress":"0.0",
+                                    "url":"http://codigofacilito.com/courses/15"
+                                    },
+                                    {
+                                        "title":"Curso Profesional de JavaScript",
+                                        "progress":"2.0",
+                                        "url":"http://codigofacilito.com/courses/javascript-profesional"
+                                        }
+                                        ],
+                                        "finished_courses":[
+                                            {
+                                                "title":"Crea un sitio personal con Gatsby",
+                                                "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"
+                                                },
+                                                {
+                                                    "title":"Curso Profesional Desarrollo Web",
+                                                    "url":"http://codigofacilito.com/courses/frontend-profesional"
+                                                    }
+                                                    ]
+                                                    },
+                                                    "errors":[]
+                                                }

@@ -1,0 +1,20 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de eduación en internet",
+    "items": [
+        {
+            "name": "Curso Profesional Desarrollo Web",
+            "url": "https://codigofacilito.com/cursos/frontend-profesional"
+        },
+        {
+            "name": "Curso JavaScript Essentials",
+            "url": "https://www.udemy.com/course/javascript-essentials/learn"
+        },
+        {
+            "name": "Curso de Introducción al Desarrollo Web",
+            "url": "https://learndigital.withgoogle.com/activate/course/web-development-I"
+        }
+
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Formación académica, grados de estudio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Universidad Autónoma de Nuevo León.",
+            "degree": "Ing. Administrador de Sistemas",
+            "score": "90"
+        },
+        {
+            "name": "Preparatoria 7 Oriente UANL",
+            "score": "87.9"
+        }
+    ]
+}

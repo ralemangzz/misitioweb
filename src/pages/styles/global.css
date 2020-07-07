@@ -3,4 +3,17 @@
 @tailwind components;
 
 @tailwind utilities;
+body{
+    @apply bg-gray-400;
+}
 
+
+.btn{
+    @apply bg-indigo-700 text-white font-bold rounded border bg-indigo-700 py-2 px-4;
+}
+
+.vertical-text{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    @apply bg-blue-300 text-indigo-600 text-xs p-2 inline-block;
+}
